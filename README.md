@@ -17,9 +17,8 @@
 - PyAudio 0.2.13:
 ``` pip install pyaudio ```でインストロール。
 
-*VOICEVOX
-https://voicevox.hiroshiba.jp/　
-からダウンロードしてください。
+- VOICEVOX
+https://voicevox.hiroshiba.jp/　からダウンロードしてください。
 普通にダウンロード出来るとは思いますが、導入方法や基本的な使い方も含めて解説しているサイトを貼っておきます。
 https://wariichi.com/how-to-use-voicevox/
 
