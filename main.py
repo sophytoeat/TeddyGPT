@@ -4,7 +4,7 @@ from whisper import voice_to_text
 from voicevox import text_to_voice
 from conf import APIKEY
 
-openai.api_key = APIKEY
+openai.api_key = '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'
 EXIT_PHRASE = 'exit'
 
 def main():
