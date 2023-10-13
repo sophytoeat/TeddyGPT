@@ -8,22 +8,22 @@
 ![スクリーンショット 2023-10-13 16 50 24](https://github.com/sophytoeat/TeddyGPT/assets/54713904/30a28d3c-6a5a-473c-b463-de35ad77c4b9)
 
 # Installation
-openai 0.27.0:
+*openai 0.27.0:
 ``` pip install openai ```でインストロール。
 
-SpeechRecognition:
+*SpeechRecognition:
 ``` pip install git+https://github.com/Uberi/speech_recognition ```でインストロール。
 
-PyAudio 0.2.13:
+*PyAudio 0.2.13:
 ``` pip install pyaudio ```でインストロール。
 
-VOICEVOX
+*VOICEVOX
 https://voicevox.hiroshiba.jp/　
 からダウンロードしてください。
 普通にダウンロード出来るとは思いますが、導入方法や基本的な使い方も含めて解説しているサイトを貼っておきます。
 https://wariichi.com/how-to-use-voicevox/
 
 # Usage
-VOICEVOXを起動させた状態で```python main.py```で実行することが出来る。
-現状長めの文章だと返答に少し時間がかかります。
-```終わり```や```会話終了```といった会話を終了する内容で話しかけられた場合にシステムが終了します。
+*VOICEVOXを起動させた状態で```python main.py```で実行することが出来る。
+*現状長めの文章だと返答に少し時間がかかります。
+*```終わり```や```会話終了```といった会話を終了する内容で話しかけられた場合にシステムが終了します。
