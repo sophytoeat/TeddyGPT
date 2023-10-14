@@ -24,3 +24,8 @@
 - VOICEVOXを起動させた状態で```python main.py```で実行することが出来る。
 - 現状長めの文章だと返答にかなり時間がかかります。
 - ```終わり```や```会話終了```と話すと、システムが終了します。
+
+# Reference
+以下のサイトを参考にしました。
+- [Whisper API, ChatGPT API, VOICEVOXを使ってAIと会話する](https://zenn.dev/umyomyomyon/articles/5f07abe67a289b)
+- [声をWhisper APIに聴かせて（音声ファイルもマイクから入力した音声も認識させよう）](https://nikkie-ftnext.hatenablog.com/entry/my-first-shion-whisper-api-file-and-microphone)
